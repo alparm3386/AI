@@ -28,7 +28,7 @@ def chat_with_openai(prompt, openai_api_key):
 
 def main():
     weather_api_key = 'your_openweathermap_api_key'
-    openai_api_key = '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'
+    openai_api_key = 'your_openai_api_key'
 
     user_input = input("Ask a general question or about the weather: ")
     openai_response = chat_with_openai(user_input, openai_api_key)

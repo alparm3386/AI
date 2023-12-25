@@ -1,4 +1,4 @@
-﻿Koszi a zenekoltemenyt, tetszik! ; )
-A szenteste meghitt alkalom az OpenAI dokumentacio olvasara. Te mit csinalsz?
+﻿setx OPENAI_API_KEY "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"
 
+python speech_generator.py
 
