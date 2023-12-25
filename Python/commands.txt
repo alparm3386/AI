@@ -1,4 +1,4 @@
-﻿setx OPENAI_API_KEY "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"
+﻿setx OPENAI_API_KEY "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"
 
 python speech_generator.py
 
